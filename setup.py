@@ -7,7 +7,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name="ecalc",
-    version="0.1",
+    version="0.2",
     author="Hiroyuki Ohsaki",
     author_email="ohsaki@lsnl.jp",
     description="a simple Python-based calculator for network engineers/researchers",
@@ -16,6 +16,7 @@ setuptools.setup(
     url="https://github.com/h-ohsaki/ecalc",
     packages=setuptools.find_packages(),
     install_requires=['perlcompat'],
+    scripts=['ecalc'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
