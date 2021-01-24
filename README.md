@@ -4,7 +4,7 @@ ecasl - a simple Python-based calculator for network engineers/researchers.
 
 # SYNOPSIS
 
-  ecalc [-d] [-p #]
+  ecalc [-p #]
 
 # DESCRIPTION
 
@@ -261,7 +261,7 @@ So, one can see that the light travels 0.36 [km] in 0.0012 [ms].
 
 # AVAILABILITY
 
-The latest version of *ecalc* is available at 
+The latest version of *ecalc* is available at https://pypi.org/project/ecalc/ .
 
 # AUTHOR
 
