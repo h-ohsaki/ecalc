@@ -7,7 +7,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name="ecalc",
-    version="1.0",
+    version="0.1",
     author="Hiroyuki Ohsaki",
     author_email="ohsaki@lsnl.jp",
     description="a simple Python-based calculator for network engineers/researchers",
