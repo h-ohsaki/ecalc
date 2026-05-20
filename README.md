@@ -265,4 +265,4 @@ The latest version of *ecalc* is available at https://pypi.org/project/ecalc/ .
 
 # AUTHOR
 
-Hiroyuki Ohsaki <ohsaki[atmark]lsnl.jp>
+Hiroyuki Ohsaki <code[atmark]lsnl.jp>
